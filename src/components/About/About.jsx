@@ -52,6 +52,7 @@ const About = () => {
                   <span className="d-flex mt-3">
                     <a
                       target="_blank"
+		      className="cta-btn cta-btn--resume"
                       href={resume}
                     >
                       Resume
