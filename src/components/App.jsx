@@ -22,7 +22,7 @@ function App() {
     setHero({ ...heroData });
     setAbout({ ...aboutData });
     setProjects([...projectsData]);
-    setProjects1([...projectsData]);
+    setProjects1([...projectsData1]);
     setContact({ ...contactData });
     setFooter({ ...footerData });
   }, []);
