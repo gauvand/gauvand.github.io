@@ -68,6 +68,7 @@ export const projectsData1 = [
     url: '',
     repo: 'https://github.com/gauvand/SIF_Capstone', // if no repo, the button will not show up
   },
+];
 
 // CONTACT DATA
 export const contactData = {
