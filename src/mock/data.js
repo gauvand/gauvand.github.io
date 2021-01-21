@@ -29,9 +29,9 @@ export const projectsData = [
   {
     id: nanoid(),
     img: 'project.jpg',
-    title: '',
-    info: '',
-    info2: '',
+    title: 'Deep learning on EEG signals with SITH',
+    info: 'Developing computational models to link brain signals to human behavior based on time-series EEG data. Employing deep reinforcement learning and prediction models to enhance the predictive performance of Brain- Computer Interface (BCI) applications by decoding neural activity. Working with a scrum team in order to develop an efficient and useful solution to replace conventional DL algorithms like LSTMs for BCI applications.',
+    info2: 'As part of this project, I am working with UVA Psychology in order to accurately predict the motor movements of individuals based on patterns within their brain signals that are picked up by scalp EEG electrodes.',
     url: '',
     repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
   },
