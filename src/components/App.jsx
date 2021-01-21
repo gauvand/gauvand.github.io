@@ -32,7 +32,7 @@ function App() {
       <Hero />
       <About />
       <Projects />
-      <Projects1 >
+      <Projects1 />
       <Contact />
       <Footer />
     </PortfolioProvider>
