@@ -54,10 +54,10 @@ const Projects = () => {
                         rel="noopener noreferrer"
                         className="cta-btn cta-btn--hero"
                         href={url || '#!'}
-                      >*/}
+                      >
                         See Live
                       </a>
-
+                      */}
                       {repo && (
                         <a
                           target="_blank"
