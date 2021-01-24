@@ -55,8 +55,8 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 'project.jpg',
-    title: '',
+    img: 'rain-forecasting.png',
+    title: 'Australian Rain Forecasting',
     info: '',
     info2: '',
     url: '',
