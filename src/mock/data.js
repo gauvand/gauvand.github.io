@@ -57,7 +57,7 @@ export const projectsData = [
     id: nanoid(),
     img: 'rain-forecasting.png',
     title: 'Australian Rain Forecasting',
-    info: 'Rainfall has impacts on many human industries like crop production, hydroelectric power generation and forestry. This is especially true in Australia, where rainfall patterns have a tremendous impact on the spread and intensity of forest fires. In this project, my team and I analyze the "Rain in Australia" dataset on Kaggle with a focus on Bayesian Machine Learning.',
+    info: 'Rainfall has impacts on many human industries like crop production, hydroelectric power generation and forestry. This is especially true in Australia, where rainfall patterns also have a tremendous impact on the spread and intensity of forest fires. In this project, my team and I analyze the "Rain in Australia" dataset on Kaggle with a focus on Bayesian Machine Learning.',
     info2: 'We implemented a Bayesian Logistic Regression model which gives us insight into the effect of each variable on the probability of rain the next day. We also developed and analyzed a hierarchical model based on location, which allows us to draw comparisons between different cities/counties in Australia. Finally, we used Markov Chain Monte Carlo sampling to approximate the posterior distribution of our parameters.',
     url: 'https://docs.google.com/presentation/d/1ln2E42Sc8hknZ8SQlZsc8CRPSLueBkP6pBU3GRnXDO8/edit?ts=5fc977bd#slide=id.g7117580564_0_461',
     repo: 'https://github.com/gauvand/DS6014-FinalProject', // if no repo, the button will not show up
