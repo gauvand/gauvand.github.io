@@ -48,10 +48,10 @@ export const projectsData = [
     id: nanoid(),
     img: 'spotify.png',
     title: 'Spotify Playlist Analyzer',
-    info: '<b>"What kind of music do you listen to?"</b>',
-    info2: '',
+    info: '"What kind of music do you listen to?"',
+    info2: "I've always got this question but never had an answer for it. I decided to create an application that would help users answer these questions with the help of the good folks over at Spotify. Through my application, users will be able to better understand what kind of music they listen to based on the songs in their playlists.",
     url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    repo: 'https://github.com/gauvand/Spotify-Playlist-Analyzer', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
