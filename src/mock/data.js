@@ -46,9 +46,9 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 'project.jpg',
-    title: '',
-    info: '',
+    img: 'spotify.png',
+    title: 'Spotify Playlist Analyzer',
+    info: '<b>"What kind of music do you listen to?"</b>',
     info2: '',
     url: '',
     repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
