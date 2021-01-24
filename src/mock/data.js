@@ -37,12 +37,12 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 'project.jpg',
-    title: '',
-    info: '',
-    info2: '',
+    img: 'all-of-us-graphMining.png',
+    title: 'NIH All of Us Project',
+    info: 'In September of 2020, I began working with UVA Data Science and Vibrant Health to analyze and interpret COVID-19 COPE survey results using data from the All of Us Research Project. The goal of our project is to measure the risk of transmission and infectivity of the virus in an effort to understand and control the spread of the virus. One of the biggest challenges in understanding the spread of the disease is identifying patterns between different groups of individuals with respect to the answers they provide in surveys.',
+    info2: 'I tackle these problems using a mixture of various techniques -- from simple data mining techniques like association analysis to much more advanced numerical techniques such as diffusion maps and partition trees. In the future, I aim to build a foundation for fast and useful analysis of infectious diseases through the use of survey questionnaire data. Click the link below to see a sample of some of the work that I've done using synthetic data.',
     url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    repo: 'https://github.com/gauvand/NIH-InitialSurveyAnalysis', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
