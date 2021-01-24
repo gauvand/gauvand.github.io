@@ -32,7 +32,7 @@ export const projectsData = [
     title: 'Deep learning on EEG signals with SITH',
     info: 'As part of this project, I am working with the folks at the Computational Memory Lab of the UVA Department of Psychology to accurately and efficiently predict human motor movements based on patterns within brain signals recorded through scalp EEG. We attempt to implement SITH -- a novel deep learning layer that attempts to mimic the way the human brain stores information by introducing a concept that is very familiar to most people -- "fuzzy memory".',
     info2: 'Our goal in this project is to develop and implement advanced deep learning algorithms on time-series EEG data in order to beat some of the most sophisticated algorithms for decoding neural activity such as Long Short Term Memory (LSTM) networks. We also aim to decrease the memory and training time required to learn on brain data so that we can advance the science of Brain-Computer Interfaces. Our results showed dramatic increases in performance when compared with several cutting edge deep learning approaches to this problem.',
-    url: '',
+    url: 'https://github.com/gauvand/SIF_Capstone',
     repo: 'https://github.com/gauvand/SIF_Capstone', // if no repo, the button will not show up
   },
   {
@@ -41,7 +41,7 @@ export const projectsData = [
     title: 'NIH All of Us Project',
     info: 'In September of 2020, I began working with UVA Data Science and Vibrant Health to analyze and interpret COVID-19 COPE survey results using data from the All of Us Research Project. The goal of our project is to measure the risk of transmission and infectivity of the virus in an effort to understand and control the spread of the virus. One of the biggest challenges in understanding the spread of the disease is identifying patterns between different groups of individuals with respect to the answers they provide in surveys.',
     info2: "I'm currently tackling these problems using a mixture of various techniques -- from simple data mining ones like association analysis to much more advanced numerical techniques ones such as diffusion maps and partition trees. In the future, I aim to build a foundation for fast and useful analysis of infectious diseases through the use of survey questionnaire data. Click the link below to see a sample of some of the work that I've done using synthetic data!",
-    url: '',
+    url: 'https://github.com/gauvand/NIH-InitialSurveyAnalysis',
     repo: 'https://github.com/gauvand/NIH-InitialSurveyAnalysis', // if no repo, the button will not show up
   },
   {
@@ -50,7 +50,7 @@ export const projectsData = [
     title: 'Spotify Playlist Analyzer',
     info: '"What kind of music do you listen to?"',
     info2: "I've always got this question but never had an answer for it. I decided to create an application that would help users answer these questions with the help of the good folks over at Spotify. Through my application, users will be able to better understand what kind of music they listen to based on the songs in their playlists.",
-    url: '',
+    url: 'https://github.com/gauvand/Spotify-Playlist-Analyzer',
     repo: 'https://github.com/gauvand/Spotify-Playlist-Analyzer', // if no repo, the button will not show up
   },
   {
