@@ -4,13 +4,6 @@
 /* eslint-disable jsx-a11y/html-has-lang */
 import React from 'react';
 import PropTypes from 'prop-types';
-import TagManager from 'react-gtm-module'
- 
-const tagManagerArgs = {
-    gtmId: 'GTM-000000'
-}
- 
-TagManager.initialize(tagManagerArgs)
 
 export default function HTML({
   htmlAttributes,
