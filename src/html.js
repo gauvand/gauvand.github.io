@@ -7,7 +7,7 @@ import PropTypes from 'prop-types';
 import TagManager from 'react-gtm-module'
  
 const tagManagerArgs = {
-    gtmId: 'G-1W6Z1017QM'
+    gtmId: 'GTM-000000'
 }
  
 TagManager.initialize(tagManagerArgs)
