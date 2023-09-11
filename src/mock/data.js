@@ -18,10 +18,10 @@ export const heroData = {
 // ABOUT DATA
 export const aboutData = {
   img: 'profile.png',
-  paragraphOne: "I graduated from Virginia Tech with a bachelor's degree in Chemical Engineering before falling in love with machine learning and AI. Now I study Data Science at the University of Virginia where I am pursuing my Master's degree in the field.",
-  paragraphTwo: "I love challenging my boundaries and learning new skills so you can always find me in the student lounge working on my side projects! I enjoy thinking about new ways to apply data science technique to real-world problems, developing ideas for potential business and research opportunities, and applying my knowledge in statistics and computer science to build solutions.",
-  paragraphThree: 'Scroll down to find out about some of the projects that I have been working on!',
-  resume: 'resume.pdf', // if no resume, the button will not show up
+  paragraphOne: "I earned my undergraduate degree in Chemical Engineering from Virginia Tech, but my fascination with machine learning and AI led me to pursue a Master's in Data Science at the University of Virginia. Today, I channel my enthusiasm for data science into my role as a data scientist in the financial sector, writing innovative code to build better credit risk models.",
+  paragraphTwo: "I love challenging my boundaries and learning new skills so you can always find me working on my side projects! I enjoy thinking about new ways to apply data science technique to real-world problems, developing ideas for potential business and research opportunities, and applying my knowledge in statistics and computer science to build solutions.",
+  paragraphThree: 'Scroll down to find out about some of the projects that I have been working on!'
+  // resume: 'resume.pdf', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
